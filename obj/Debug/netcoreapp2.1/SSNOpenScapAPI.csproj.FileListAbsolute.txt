@@ -1,0 +1,14 @@
+E:\TheCode\Hackfest\SSNOpenScapAPI\bin\Debug\netcoreapp2.1\SSNOpenScapAPI.deps.json
+E:\TheCode\Hackfest\SSNOpenScapAPI\bin\Debug\netcoreapp2.1\SSNOpenScapAPI.runtimeconfig.json
+E:\TheCode\Hackfest\SSNOpenScapAPI\bin\Debug\netcoreapp2.1\SSNOpenScapAPI.runtimeconfig.dev.json
+E:\TheCode\Hackfest\SSNOpenScapAPI\bin\Debug\netcoreapp2.1\SSNOpenScapAPI.dll
+E:\TheCode\Hackfest\SSNOpenScapAPI\bin\Debug\netcoreapp2.1\SSNOpenScapAPI.pdb
+E:\TheCode\Hackfest\SSNOpenScapAPI\obj\Debug\netcoreapp2.1\SSNOpenScapAPI.csprojAssemblyReference.cache
+E:\TheCode\Hackfest\SSNOpenScapAPI\obj\Debug\netcoreapp2.1\SSNOpenScapAPI.csproj.CoreCompileInputs.cache
+E:\TheCode\Hackfest\SSNOpenScapAPI\obj\Debug\netcoreapp2.1\SSNOpenScapAPI.RazorAssemblyInfo.cache
+E:\TheCode\Hackfest\SSNOpenScapAPI\obj\Debug\netcoreapp2.1\SSNOpenScapAPI.RazorAssemblyInfo.cs
+E:\TheCode\Hackfest\SSNOpenScapAPI\obj\Debug\netcoreapp2.1\SSNOpenScapAPI.AssemblyInfoInputs.cache
+E:\TheCode\Hackfest\SSNOpenScapAPI\obj\Debug\netcoreapp2.1\SSNOpenScapAPI.AssemblyInfo.cs
+E:\TheCode\Hackfest\SSNOpenScapAPI\obj\Debug\netcoreapp2.1\SSNOpenScapAPI.RazorTargetAssemblyInfo.cache
+E:\TheCode\Hackfest\SSNOpenScapAPI\obj\Debug\netcoreapp2.1\SSNOpenScapAPI.dll
+E:\TheCode\Hackfest\SSNOpenScapAPI\obj\Debug\netcoreapp2.1\SSNOpenScapAPI.pdb
